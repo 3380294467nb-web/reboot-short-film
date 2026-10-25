@@ -6,9 +6,9 @@
 
 **4:59（299 秒）** · **1280 × 720** · **24 fps** · MP4
 
-前半配乐改为连续推进，以平滑弱化衔接重启段；含中英双语对白字幕及电影式片尾署名。
+前半配乐改为连续推进，以平滑弱化衔接重启段；童年与失重段以氛围配乐区分情绪。白场连接记忆出口，含中英双语对白字幕及电影式片尾署名。
 
-文件大小：`110775549` 字节。SHA-256：`15a8db931017a3f540cb7bc04bcac050fcc1ca890c6b6113635d4e3a55027bf1`。
+文件大小：`110725581` 字节。SHA-256：`401c04eddbb51b75a8f4ccad398b79b4e7f91262218740e00d052cfde1f3ad93`。
 
 [发布说明](release-notes.md) · [文件校验值](SHA256SUMS.txt)
 
@@ -17,6 +17,7 @@
 Music by **Scott Buckley** — released under **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)**. [www.scottbuckley.com.au](https://www.scottbuckley.com.au/)
 
 - [Signal to Noise](https://www.scottbuckley.com.au/library/signal-to-noise/)
+- [Ephemera](https://www.scottbuckley.com.au/library/ephemera/)
 - [Hiraeth](https://www.scottbuckley.com.au/library/hiraeth/)
 - [This Too Shall Pass](https://www.scottbuckley.com.au/library/this-too-shall-pass/)
 
